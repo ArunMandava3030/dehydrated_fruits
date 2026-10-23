@@ -1,0 +1,182 @@
+{
+  "researched_on": "2026-10-23",
+  "scope": "B2B dehydrated-fruit launch from Poranki, prioritizing cafes and cocktail bars",
+  "demand_limit": "These are public menu and business-fit signals, not purchasing records, sales volumes, confirmed demand, or commitments to buy. No source establishes which dehydrated fruit sells most in Poranki or Vijayawada. The ranking below is a recommended order for customer trials, not a measured market-share ranking.",
+  "recommended_start": "Start customer validation with orange wheels and lemon wheels; make lime a separate buyer-requested variant. Add pineapple only after a cafe or bar approves a tropical-drink use case. Test apple or mango with a specific bakery, breakfast-bowl or snack buyer before building stock. Dried garnishes do not replace fresh citrus juice, fresh muddled fruit or fruit puree in recipes.",
+  "trial_priority_by_fruit": [
+    {
+      "rank": 1,
+      "fruit": "Orange",
+      "launch_role": "Core first sample",
+      "strongest_customer_fit": "Cocktail bars, restobars and beverage-focused cafes",
+      "reasoning": "A regional hotel restaurant explicitly lists dehydrated orange in a cocktail, providing a concrete existing format to demonstrate. Broader fit to citrus drinks is an inference that must be tested venue by venue.",
+      "source_ids": ["D1", "D2"],
+      "ask_buyer": "Which drinks could use an orange wheel? What diameter, color, peel bitterness, pack size and cost per usable wheel do you accept? Do you currently buy or dry it yourself?"
+    },
+    {
+      "rank": 2,
+      "fruit": "Lemon; lime as a separately specified variant",
+      "launch_role": "Second core sample",
+      "strongest_customer_fit": "Iced-tea and mocktail cafes; bars serving citrus drinks",
+      "reasoning": "Primary menus show citrus, lemon and lime drink ingredients. This supports a garnish trial but does not prove a need for dried wheels. Fermented black lime is a different product and should not be substituted with ordinary dried lime.",
+      "source_ids": ["D2", "D3"],
+      "ask_buyer": "Do you want lemon or lime, which local variety and wheel size, and is the garnish decorative or expected to add flavor? Test appearance and bitterness in the actual drink."
+    },
+    {
+      "rank": 3,
+      "fruit": "Pineapple",
+      "launch_role": "Second-stage sample after confirmed tropical-drink fit",
+      "strongest_customer_fit": "Tropical cocktail/mocktail cafes and selected dessert kitchens",
+      "reasoning": "Primary bar menus include pineapple, so a dried pineapple garnish can be proposed. Fresh pineapple, juice and clarified pineapple are distinct ingredients; those menu mentions alone do not establish dried-pineapple demand.",
+      "source_ids": ["D2"],
+      "ask_buyer": "Would you prefer a thin decorative piece or a chewy edible piece? How many relevant drinks are sold weekly? Test breakage and texture in their serving format."
+    },
+    {
+      "rank": 4,
+      "fruit": "Apple",
+      "launch_role": "Targeted breakfast-bowl / bakery experiment",
+      "strongest_customer_fit": "Granola, breakfast-bowl and bakery operators",
+      "reasoning": "A primary cafe menu demonstrates a granola-and-yogurt use case, but no verified apple-drying purchase demand was found. Dried apple is a proposed addition rather than a substitution automatically implied by fresh-fruit menus.",
+      "source_ids": ["D4", "Q4"],
+      "ask_buyer": "Does the kitchen want slices, small dice or a snack? Confirm desired chew/crunch and color; trial any pretreatment and declare ingredients accurately."
+    },
+    {
+      "rank": 5,
+      "fruit": "Mango",
+      "launch_role": "Preorder-led seasonal snack / topping experiment",
+      "strongest_customer_fit": "Selected bakeries, bowl cafes and packaged-snack buyers",
+      "reasoning": "Primary menus feature mango-flavored drinks and a cafe offers healthy-snack categories. This is evidence of flavor familiarity, not proof that dehydrated mango will fit those recipes. Validate a distinct strip/dice product with a buyer first.",
+      "source_ids": ["D2", "D5"],
+      "ask_buyer": "Do you need an unsweetened snack strip, diced inclusion or garnish? Is the accepted texture chewy or crisp? Confirm acceptance of color variation and the exact ingredient specification."
+    }
+  ],
+  "priority_by_business_type": [
+    {
+      "business_type": "Cocktail bars / restobars",
+      "first_offer": "Orange, then lemon/lime; pineapple where tropical drinks exist",
+      "decision_maker": "Head bartender / bar manager",
+      "proof_to_collect": "Current garnish process, acceptable cost per usable piece, relevant drink sales, in-house drying cost, sample acceptance and paid reorder."
+    },
+    {
+      "business_type": "Mocktail / iced-tea / beverage-focused cafes",
+      "first_offer": "Lemon and orange; pineapple for an approved tropical drink",
+      "decision_maker": "Owner / beverage lead / cafe manager",
+      "proof_to_collect": "Which exact drink will use the garnish, willingness to pay for it, presentation benefit and repeat weekly use."
+    },
+    {
+      "business_type": "Bakeries and patisseries",
+      "first_offer": "Orange decoration; small apple, pineapple or mango inclusion trials",
+      "decision_maker": "Pastry chef / owner / ingredient buyer",
+      "proof_to_collect": "Approved recipe trial, moisture/texture specification, ingredient declaration and purchase quantity."
+    },
+    {
+      "business_type": "Breakfast-bowl / granola / snack cafes",
+      "first_offer": "Apple or mango samples matched to the actual menu",
+      "decision_maker": "Chef / owner",
+      "proof_to_collect": "Whether a dried topping is wanted at all, acceptable chew/crunch, serving size and paid reorder."
+    },
+    {
+      "business_type": "Basic bars with limited cocktail service",
+      "first_offer": "Qualify before producing samples",
+      "decision_maker": "Owner / bar manager",
+      "proof_to_collect": "Existence of a cocktail or mocktail menu and a buyer willing to pay for presentation garnishes. Alcohol service alone does not imply dried-fruit demand."
+    }
+  ],
+  "commercial_validation_steps": [
+    "Visit nearby Poranki and Vijayawada prospects first and ask which exact drinks or foods could use a sample. Treat an unqualified contact as a lead, not a customer.",
+    "Use small, clearly labeled trials to compare appearance, aroma, bitterness, texture, breakage, pack resealing and consistency in the buyer's actual recipe.",
+    "Record paid sample/trial results and repeat orders; select the first production range from those results instead of treating menu mentions as demand volumes.",
+    "Before choosing equipment capacity, measure wet fruit input, usable dry output, usable pieces, rejects, preparation time, electricity, packaging and freight on representative batches.",
+    "Price garnish packs using cost per usable piece as well as net weight. Do not estimate an order from the venue's total covers without asking about relevant drinks."
+  ],
+  "equipment_and_quality_implications": [
+    "For a pilot machine, compare adjustable temperature control, forced airflow, timer, cleanable food-contact trays, service support and real usable tray area. Request a demonstration with the fruit and slice size you plan to sell. Tray count or advertised wet-load capacity is not a finished-product capacity guarantee.",
+    "Use uniform preparation and control temperature, airflow and humidity. Test multiple tray positions rather than relying only on an elapsed drying time.",
+    "Cool product appropriately before packing and select food-contact packaging that limits moisture entry. Smaller use-size packs may suit bar service because opening repeatedly exposes product to humid air.",
+    "Validate the commercial process, finished product, packaging and intended storage conditions with a qualified food technologist/laboratory. Check water activity, applicable microbiological/product requirements and a supported shelf-life specification.",
+    "Do not copy the shelf-life durations from home-preservation articles onto a commercial label. Crisp appearance, final weight, vacuum sealing or meeting a moisture figure alone is not a commercial shelf-life study.",
+    "The cited extension resources explain general drying principles; they do not replace Indian food-business registration, product standards, labeling or commercial process validation."
+  ],
+  "sources": [
+    {
+      "id": "D1",
+      "title": "Lush Bengaluru official menus",
+      "url": "https://www.lushbengaluru.com/our-menus",
+      "source_type": "Primary business menu",
+      "facts": "The Highlander cocktail lists dehydrated orange. Other drinks list fresh citrus or fruit components.",
+      "implication": "Direct evidence that dehydrated orange is used in at least one South Indian venue's published menu. It does not show supplier availability, purchase volume, profitability or demand in Poranki."
+    },
+    {
+      "id": "D2",
+      "title": "Mirth Bengaluru official cocktail list",
+      "url": "https://www.mirthblr.com/",
+      "source_type": "Primary business menu, visible in official-domain search index",
+      "facts": "Cocktails feature lime, lemon, pineapple/citrus and mango tea in different recipes.",
+      "implication": "These flavor cues identify questions for a bar-manager tasting. Dried forms and supplier demand are not stated. Direct retrieval timed out; confirm the current menu before a personalized pitch."
+    },
+    {
+      "id": "D3",
+      "title": "Sundays Chennai beverage program",
+      "url": "https://sundayschennai.in/index.html",
+      "source_type": "Primary business website",
+      "facts": "Site describes spritzes, Old Fashioneds and zero-alcohol drinks, and a conceptual cocktail menu featuring fermented black lime.",
+      "implication": "A beverage-led venue is a plausible garnish prospect. Fermented black lime and ordinary dehydrated lime wheels are different products, and no purchase demand for the latter is confirmed."
+    },
+    {
+      "id": "D4",
+      "title": "Pandhal Cafe & Deli official menu",
+      "url": "https://www.pandhal.in/cafe-deli",
+      "source_type": "Primary business menu",
+      "facts": "The Power Bowl combines granola, coconut yogurt, nuts and fresh fruit; the cafe also offers desserts.",
+      "implication": "Possible channel for a chef-approved dried-fruit topping experiment. Existing fresh-fruit ingredients are not evidence that dried apple or mango is already wanted."
+    },
+    {
+      "id": "D5",
+      "title": "Fresh Choice official site",
+      "url": "https://freshchoice.in/",
+      "source_type": "Primary business menu and product categories",
+      "facts": "Site lists pastries, beverages and healthy snacks, and features Mango Chilli Soda.",
+      "implication": "Useful bakery/cafe prospect and mango-flavor cue. Dehydrated mango remains a proposed new application rather than a confirmed ingredient requirement."
+    },
+    {
+      "id": "Q1",
+      "title": "National Center for Home Food Preservation: Food Dehydrators",
+      "url": "https://nchfp.uga.edu/how/dry/drying-general/food-dehydrators/",
+      "source_type": "University of Georgia extension guidance",
+      "facts": "Describes heat, airflow and vents; recommends features such as temperature adjustment, fan and timer. Explains more even tray heating and reduced flavor mixing as benefits of horizontal airflow.",
+      "implication": "Use these as machine-comparison criteria, alongside a trial with the intended fruit and local service support. The article covers home equipment and does not validate a commercial machine's throughput."
+    },
+    {
+      "id": "Q2",
+      "title": "National Center for Home Food Preservation: Packaging and Storing Dried Foods",
+      "url": "https://nchfp.uga.edu/how/dry/general-information-drying/packaging-and-storing-dried-foods/",
+      "source_type": "University of Georgia extension guidance",
+      "facts": "Dried food can absorb moisture again. Packing warm food can cause condensation; repeated package opening introduces air and moisture. Fruit conditioning equalizes remaining moisture in home-dried pieces.",
+      "implication": "Cooling, moisture-resistant sealed packaging and pack size deserve testing. Home conditioning guidance and suggested household storage times do not establish a commercial shelf-life claim."
+    },
+    {
+      "id": "Q3",
+      "title": "FDA: Water Activity in Foods",
+      "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/inspection-technical-guides/water-activity-aw-foods",
+      "source_type": "Food regulator technical reference",
+      "facts": "Water activity describes water availability and affects microbial stability. Some water is bound within food; temperature control matters when measuring water activity.",
+      "implication": "A batch's weight loss or total moisture does not by itself establish its water activity or safe shelf life. Seek product-appropriate laboratory validation; this US technical reference is not an Indian licensing rule."
+    },
+    {
+      "id": "Q4",
+      "title": "Montana State University Extension: Drying Fruits",
+      "url": "https://extension-store.montana.edu/montguides/drying-fruits",
+      "source_type": "University extension guidance",
+      "facts": "Fruit quality and ripeness affect the dried result. Pretreatment is recommended for quality; tray crowding, scorching, cooling and moisture re-entry matter. Dried fruit texture varies by fruit and may remain flexible.",
+      "implication": "Use buyer-approved fruit varieties and repeatable preparation. Do not promise freeze-dried-like crunch from a small hot-air dryer; assess the actual finished texture and ingredients."
+    },
+    {
+      "id": "Q5",
+      "title": "National Center for Home Food Preservation: Sun Drying",
+      "url": "https://nchfp.uga.edu/how/dry/sun-drying/",
+      "source_type": "University of Georgia extension guidance",
+      "facts": "Outdoor drying depends on sufficiently dry, warm, moving air, takes multiple days and can be affected by rain or overnight condensation.",
+      "implication": "A controlled indoor dehydrator is a more repeatable pilot choice than weather-dependent outdoor drying. This is an equipment-planning inference, not a local climatic measurement."
+    }
+  ]
+}

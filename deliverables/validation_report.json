@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "checks": [
+    "50 unique lead IDs",
+    "25 local / 17 Hyderabad / 8 other southern prospects",
+    "33 public emails / 49 public phones",
+    "All leads have source URLs and unconfirmed demand status",
+    "CSV has 50 consistent records",
+    "XLSX archive integrity and nine worksheets",
+    "Seven costing formulas in the expected cells",
+    "Python scripts parse successfully"
+  ],
+  "limits": [
+    "Contacts were not called or emailed",
+    "Buyer demand and purchasing volumes are unconfirmed",
+    "Workbook visually untested in desktop Excel",
+    "GitHub upload status is reported separately after authentication"
+  ]
+}
