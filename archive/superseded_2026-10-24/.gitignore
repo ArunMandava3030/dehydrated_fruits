@@ -1,0 +1,9 @@
+.tools/
+.sf/
+__pycache__/
+*.pyc
+~$*.xlsx
+.env
+.env.*
+delivery/*.zip
+

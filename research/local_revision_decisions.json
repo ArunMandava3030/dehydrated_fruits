@@ -1,0 +1,776 @@
+[
+  {
+    "lead_id": "N001",
+    "existing_lead_id": "N001",
+    "business": "Lassi And Shakes - Kamayyathopu",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Shake/juice outlet evidence; no established dine-in specialty cafe, bar, premium production bakery or event format demonstrated for the revised benchmark.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N002",
+    "existing_lead_id": "N002",
+    "business": "PUBG Shakes",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Shake outlet menu fit alone does not establish the requested commercial format or a distinct production purchasing route.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N003",
+    "existing_lead_id": "N003",
+    "business": "RR Milkshakes & Fresh Fruit Juices",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Fresh-juice/milkshake counter evidence; no sufficiently documented specialty dining, bar, bakery production or event operation.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N004",
+    "existing_lead_id": "N004",
+    "business": "Yummy Shakes N Falooda",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Delivery-oriented shake/falooda listing; established dine-in or production format not corroborated.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N005",
+    "existing_lead_id": "N005",
+    "business": "Alankar Sweets & Bakers Restaurant - Tadigadapa",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Sweets/bakery retail and general restaurant listing; premium production operation and a relevant fruit recipe purchasing route are not documented sufficiently.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N006",
+    "existing_lead_id": "N006",
+    "business": "Sweet Way - Kanuru",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Retail sweets/bakery evidence; current premium bakery production and relevant menu applications are not verified.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N007",
+    "existing_lead_id": "N007",
+    "business": "Element E7 Restro Bar - Vijayawada",
+    "city": "Vijayawada",
+    "decision": "include",
+    "reason": "Documented Dine-in restaurant and cocktail bar. Operator menu image lists lemon iced tea, pineapple punch, pina colada and mimosa; the shared undated menu needs branch confirmation. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N008",
+    "existing_lead_id": "N008",
+    "business": "Andhra Canteen at Jade Suites",
+    "city": "Vijayawada",
+    "decision": "include",
+    "reason": "Documented Boutique hotel, seated restaurant and banquet operation. The claimed restaurant listing has an owner-posted summer-cooler/mocktail photo; no dehydrated garnish is shown. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N009",
+    "existing_lead_id": "N009",
+    "business": "Hyatt Place Vijayawada - The Market / Zing",
+    "city": "Vijayawada",
+    "decision": "include",
+    "reason": "Documented Branded hotel with all-day dining and bakery cafe. The Market explicitly offers mocktails alongside cakes and croissants. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N010",
+    "existing_lead_id": "N010",
+    "business": "Livingstone Coffee - Vijayawada",
+    "city": "Vijayawada",
+    "decision": "include",
+    "reason": "Documented Specialty coffee cafe brand with seated gatherings. Reviewed official brand menu lists orange-flavoured cold brew, lemon iced tea, Blue Lagoon and raspberry mocktail; local availability still needs confirmation. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N011",
+    "existing_lead_id": "N011",
+    "business": "Nicoli Pasticceria",
+    "city": "Vijayawada",
+    "decision": "include",
+    "reason": "Documented Seated patisserie and continental cafe. Customer reports on the reviewed listing identify mocktails, desserts and rose-pistachio pastry. These reports are older, so current recipes require confirmation. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N012",
+    "existing_lead_id": "N012",
+    "business": "AvocadoandBrownies - Vijayawada",
+    "city": "Vijayawada",
+    "decision": "include",
+    "reason": "Documented Scratch-baking dessert brand with a Vijayawada outlet. Official catalogue has brownies, brownie cakes and cheesecakes; dehydrated orange or tropical fruit would be a new chef-approved variation. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N013",
+    "existing_lead_id": "N013",
+    "business": "Bakers Inn - Vijayawada",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "General bakery/cafe listing; insufficient current evidence of a premium production operation or a focused fruit-based menu application.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N014",
+    "existing_lead_id": "N014",
+    "business": "Brioche - The Bake House",
+    "city": "Vijayawada",
+    "decision": "include",
+    "reason": "Documented Bookable dine-in bakehouse and restaurant. Reviewed categories include cakes, desserts, coffee and shakes; a bakery garnish or inclusion is proposed, not an established ingredient. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N015",
+    "existing_lead_id": "N015",
+    "business": "Cafe Miracle",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Delivery-only listing does not meet the requested established dine-in cafe format; no alternative production operation verified.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N016",
+    "existing_lead_id": "N016",
+    "business": "Cafe Vistaara",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Dessert/cafe category evidence is insufficient to demonstrate a focused beverage programme or premium bakery production operation.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N017",
+    "existing_lead_id": "N017",
+    "business": "Cafelly",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Delivery-only listing; established dine-in specialty cafe or premium production format not verified.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N018",
+    "existing_lead_id": "N018",
+    "business": "Cicely",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Indoor/outdoor dining is documented, but current evidence centres on general multi-cuisine food and desserts; a focused drink programme or premium bakery production application is not established.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N019",
+    "existing_lead_id": "N019",
+    "business": "CRAB â€” Coffee Roasters and Bakers",
+    "city": "Vijayawada",
+    "decision": "include",
+    "reason": "Documented Specialty roastery cafe with a separate dining room. Daily bakes, desserts and handcrafted drinks are stated by the operator; no current dried-fruit recipe is shown. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N020",
+    "existing_lead_id": "N020",
+    "business": "Cravvy",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Shake/quick-service menu evidence; established specialty dining or production format is not demonstrated.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N021",
+    "existing_lead_id": "N021",
+    "business": "Cream & Crisp / The Batter Bar",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Dessert/shake retail format; insufficient evidence of premium bakery production or an established dine-in specialty beverage programme.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N022",
+    "existing_lead_id": "N022",
+    "business": "Dessertino Shakes & More - RR Gardens",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Shake/dessert outlet listing; no corroborated established specialty dining or premium production format.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N023",
+    "existing_lead_id": "N023",
+    "business": "Labonel Fine Baking - Vijayawada",
+    "city": "Vijayawada",
+    "decision": "include",
+    "reason": "Documented Made-to-order bakery brand and gifting operation. Reviewed catalogue includes fruit-and-nut loaf, cranberry blondies, berry crumble loaf and lemon tarts; local tropical-fruit use is a proposed recipe development. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N024",
+    "existing_lead_id": "N024",
+    "business": "Lemon Tree Premier Vijayawada - Citrus Cafe / Slounge",
+    "city": "Vijayawada",
+    "decision": "include",
+    "reason": "Documented Hotel with recreational bar and multiple dining outlets. Slounge has an operator-described beverage programme; the current specific mixed-drink list is not publicly confirmed. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N025",
+    "existing_lead_id": "N025",
+    "business": "Local Narrative Specialty Coffee | Cafe | Bakehouse",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Cafe/bakehouse name and directory contacts are available, but sufficiently current operator and menu evidence for a specific fruit application are missing.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N026",
+    "existing_lead_id": "N026",
+    "business": "Minerva Grand Vijayawada - Minerva Coffee Shop",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Official Blue Fox bar information conflicts with a directory closure flag at the same location/phone. Current operation of that bar remains unresolved; this is not a claim that Minerva Grand hotel is closed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N027",
+    "existing_lead_id": "N027",
+    "business": "Mon Amour",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Delivery-only listing; the requested established dine-in or premium production format is not corroborated.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N028",
+    "existing_lead_id": "N028",
+    "business": "One Stop Cafe - PNT Colony",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Quick-service cafe/shake listing; a sufficiently documented established specialty dining or production format is missing.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N029",
+    "existing_lead_id": "N029",
+    "business": "The Kay Hotel - Restaurant",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Hotel existence is supported, but the available menu mainly shows basic shakes, lassi and general desserts; a relevant bar/event drink programme or fruit recipe application is not established.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N030",
+    "existing_lead_id": "N030",
+    "business": "The Magic Oven",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Retail/custom bakery evidence does not sufficiently establish premium production format and a current ingredient purchasing route.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N031",
+    "existing_lead_id": "N031",
+    "business": "B3 Cafe",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "The available site/index does not adequately corroborate operator identity, current contact and an established full-service specialty cafe format.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N032",
+    "existing_lead_id": "N032",
+    "business": "Iconic Mocktails and Milkshakes",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Mocktail/milkshake outlet listing; a dedicated established bar, dine-in specialty cafe or event operation is not verified.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N033",
+    "existing_lead_id": "N033",
+    "business": "Araku House",
+    "city": "Vijayawada",
+    "decision": "include",
+    "reason": "Documented Seated specialty-coffee and continental cafe. Official indexed menu lists lemon tea, cold brew, matcha specials and tiramisu French toast. Detailed menu is indexed because the site opens as a script shell. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N034",
+    "existing_lead_id": "N034",
+    "business": "Fortune Murali Park - Neptune / Zodiac",
+    "city": "Vijayawada",
+    "decision": "include",
+    "reason": "Documented Full-service hotel with Neptune bar and banquets. Official page confirms bar beverages; a FabHotels editorial explicitly describes cocktails and mocktails at Neptune, but is older than the current hotel page. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N035",
+    "existing_lead_id": "N035",
+    "business": "Kava Cafe - Vijayawada",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Phone/operator ambiguity and review-led coffee/pastry evidence leave the current specialty cafe format and purchasing route insufficiently verified.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N036",
+    "existing_lead_id": "N036",
+    "business": "Paddle N Latte",
+    "city": "Vijayawada",
+    "decision": "exclude",
+    "reason": "Delivery-oriented shake/cafe listing; established dine-in or premium production format is not corroborated.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N037",
+    "existing_lead_id": "N037",
+    "business": "Celeste Brew",
+    "city": "Guntur",
+    "decision": "include",
+    "reason": "Documented Bookable continental cafe with events and mocktails. Operator explicitly includes a mocktail offering in addition to coffee. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N038",
+    "existing_lead_id": "N038",
+    "business": "Cafe MeAme",
+    "city": "Mangalagiri",
+    "decision": "include",
+    "reason": "Documented Artisanal bakery, specialty coffee and seated dining venue. Reviewed menu includes Alphonso almond crumble, mango tres leches, mango cheesecake, lemon macarons and fruit coladas. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N039",
+    "existing_lead_id": "N039",
+    "business": "Brewbakes Guntur",
+    "city": "Guntur",
+    "decision": "include",
+    "reason": "Documented Branded dine-in coffee cafe. Reviewed local cafe guide lists lemon, cranberry/peach and mint-lemon iced teas alongside espresso drinks; this is menu-fit evidence, not dried-fruit demand. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N040",
+    "existing_lead_id": "N040",
+    "business": "Frozen Pot Cafe",
+    "city": "Guntur",
+    "decision": "exclude",
+    "reason": "Frozen dessert/cafe listing; insufficient current evidence of the requested established specialty dining or production format.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N041",
+    "existing_lead_id": "N041",
+    "business": "La Cafeine - Guntur office / food court",
+    "city": "Guntur",
+    "decision": "exclude",
+    "reason": "Available official route is an office/food-court brand contact; a qualifying dine-in property or premium production purchasing operation is not verified.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N042",
+    "existing_lead_id": "N042",
+    "business": "Mocktail Bar - Chandramouli Nagar",
+    "city": "Guntur",
+    "decision": "exclude",
+    "reason": "Mocktail outlet menu evidence alone does not establish a qualifying full-service bar or specialty dining operation.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N043",
+    "existing_lead_id": "N043",
+    "business": "RR Green Caffeine",
+    "city": "Guntur",
+    "decision": "exclude",
+    "reason": "Current address/brand identity is inconsistent across listings; delivery-menu evidence does not resolve the qualifying commercial format.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N044",
+    "existing_lead_id": "N044",
+    "business": "Teas N Trees",
+    "city": "Guntur",
+    "decision": "include",
+    "reason": "Documented Seated tea-and-coffee cafe with indoor and garden dining. Reviewed cafe guide lists honey-lemon tea, hibiscus tea and other brewed teas; indexed delivery menu includes mojitos. Start with a tea application confirmed by the buyer. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N045",
+    "existing_lead_id": "N045",
+    "business": "The Coffee Sense",
+    "city": "Guntur",
+    "decision": "exclude",
+    "reason": "The reviewed Zomato page explicitly marks The Coffee Sense temporarily closed; no reopening confirmation found. Excluded pending operating-status confirmation.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N046",
+    "existing_lead_id": "N046",
+    "business": "Welcomhotel Guntur - WelcomCafe / beverage team",
+    "city": "Guntur",
+    "decision": "include",
+    "reason": "Documented Branded hotel with WelcomCafe, Swizzle bar and banquets. Official in-room menu lists Guntur Junction signature mocktail and lime/mint virgin mojito variants; PDF carries an older menu version, so current availability must be checked. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N047",
+    "existing_lead_id": "N047",
+    "business": "One Stop Cafe - Mangalagiri",
+    "city": "Mangalagiri",
+    "decision": "exclude",
+    "reason": "Delivery-led menu, address/contact changes and uncertain relationship with the Vijayawada One Stop Cafe do not establish a distinct qualifying account.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N048",
+    "existing_lead_id": "N048",
+    "business": "Arcoh Cafe",
+    "city": "Tenali",
+    "decision": "exclude",
+    "reason": "Delivery-only listing; no corroborated established dine-in specialty cafe or premium production operation.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N049",
+    "existing_lead_id": "N049",
+    "business": "Cafe Chocos",
+    "city": "Tenali",
+    "decision": "exclude",
+    "reason": "Indexed delivery-menu and review evidence does not sufficiently corroborate a current established specialty dining or production operation.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N050",
+    "existing_lead_id": "N050",
+    "business": "Sri Skanda Cafe",
+    "city": "Tenali",
+    "decision": "exclude",
+    "reason": "Delivery-only listing; no independently corroborated qualifying dine-in or production format.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N051",
+    "existing_lead_id": "N051",
+    "business": "Zoop Cafe",
+    "city": "Tenali",
+    "decision": "exclude",
+    "reason": "Cafe/menu listings lack sufficiently current operator evidence of an established specialty dining format and relevant fruit application.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N052",
+    "existing_lead_id": "N052",
+    "business": "A Cafe - Brindavan Gardens",
+    "city": "Guntur",
+    "decision": "exclude",
+    "reason": "Conflicting phone information and limited menu/format evidence leave the purchasing route and relevant specialty application unverified.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N053",
+    "existing_lead_id": "N053",
+    "business": "Bakers' Fun - Guntur central kitchen enquiry",
+    "city": "Guntur",
+    "decision": "include",
+    "reason": "Documented Bakery central kitchen serving multiple stores. Official indexed catalogue lists pineapple pastry/cake, plum cake and dry-fruit muffin; the latter does not establish demand for the proposed dehydrated fruits. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N054",
+    "existing_lead_id": "N054",
+    "business": "Baking Studios - Guntur / Tadepalli group enquiry",
+    "city": "Guntur",
+    "decision": "exclude",
+    "reason": "Official material describes a cloud-kitchen group; the reviewed evidence does not establish the premium production operation and procurement route required for this stricter shortlist.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N055",
+    "existing_lead_id": "N055",
+    "business": "California Coffee",
+    "city": "Guntur",
+    "decision": "exclude",
+    "reason": "Conflicting dine-in/delivery listings leave the current qualifying commercial format unresolved.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N056",
+    "existing_lead_id": "N056",
+    "business": "CR7 The Cafe Lounge",
+    "city": "Guntur",
+    "decision": "exclude",
+    "reason": "Older celebration/review evidence and unclear exact address do not sufficiently establish a current qualifying operation and reliable purchasing route.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N057",
+    "existing_lead_id": "N057",
+    "business": "La Rockstar Cafe",
+    "city": "Guntur",
+    "decision": "exclude",
+    "reason": "Indexed delivery-menu/review evidence is insufficient to establish a current specialty dine-in or premium production operation.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N058",
+    "existing_lead_id": "N058",
+    "business": "Nirvana Restro Cafe",
+    "city": "Guntur",
+    "decision": "exclude",
+    "reason": "Drink cues rely primarily on reviews; current operator menu and qualifying commercial format are insufficiently corroborated.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N059",
+    "existing_lead_id": "N059",
+    "business": "Robusta Coffee",
+    "city": "Guntur",
+    "decision": "exclude",
+    "reason": "Dine-in and all-day breakfast are supported, but evidence remains generic coffee/shakes categories without a focused fruit application or premium production operation.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N060",
+    "existing_lead_id": "N060",
+    "business": "7th Heaven Tenali",
+    "city": "Tenali",
+    "decision": "exclude",
+    "reason": "A bakery chain listing does not establish this outlet as a premium production buying account; local production and purchasing authority remain unverified.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N061",
+    "existing_lead_id": "N061",
+    "business": "Sasi Delicious Bakery",
+    "city": "Tenali",
+    "decision": "exclude",
+    "reason": "General retail bakery evidence; a premium production operation and suitable recipe purchasing route are not sufficiently documented.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N069",
+    "existing_lead_id": "N069",
+    "business": "B-Zag Beach Restaurant",
+    "city": "Visakhapatnam",
+    "decision": "include",
+    "reason": "Documented Beachfront dining and private-event venue. The same official indexed page explicitly promotes signature mocktails. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N070",
+    "existing_lead_id": "N070",
+    "business": "Noise Cosmic House",
+    "city": "Visakhapatnam",
+    "decision": "include",
+    "reason": "Documented Restobar and live-event venue. Operator explicitly advertises handcrafted/signature cocktails; specific garnish recipes are not published. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N071",
+    "existing_lead_id": "N071",
+    "business": "SOMAA Restobar - group enquiry",
+    "city": "Visakhapatnam",
+    "decision": "include",
+    "reason": "Documented Multi-location restobar with dining and private events. Operator describes signature cocktails made by mixologists and a craft-bar programme. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N072",
+    "existing_lead_id": "N072",
+    "business": "Tan Coffee - Lawsons Bay",
+    "city": "Visakhapatnam",
+    "decision": "exclude",
+    "reason": "Delivery-only listing; no independently corroborated established dine-in specialty cafe or premium production format.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N073",
+    "existing_lead_id": "N073",
+    "business": "THE Park Visakhapatnam - Aqua / Tribe beverage team",
+    "city": "Visakhapatnam",
+    "decision": "include",
+    "reason": "Documented Hotel poolside bar and nightlife venue. Official page explicitly describes a cocktail and wine list; current garnish use is not specified. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N074",
+    "existing_lead_id": "N074",
+    "business": "Upper Deck / Zest - Radisson Blu Resort Visakhapatnam",
+    "city": "Visakhapatnam",
+    "decision": "include",
+    "reason": "Documented Resort open-air cocktail bar and pastry lounge. Upper Deck's official page explicitly offers handcrafted cocktails. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N075",
+    "existing_lead_id": "N075",
+    "business": "Water Bar - The Bheemli Resort",
+    "city": "Visakhapatnam",
+    "decision": "include",
+    "reason": "Documented Beach resort with Water Bar and event facilities. Official resort page explicitly states Water Bar serves cocktails and mocktails. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N076",
+    "existing_lead_id": "N076",
+    "business": "Welcomhotel Devee Grand Bay - beverage team",
+    "city": "Visakhapatnam",
+    "decision": "include",
+    "reason": "Documented Branded beachfront hotel with dining and banquets. Official in-room menu lists Orange & Basil Mojito and Fizzy Sunrise with pineapple, orange and lemon; current recipe and garnish need confirmation. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N078",
+    "existing_lead_id": "N078",
+    "business": "Dehdeepya's Cake Factory",
+    "city": "Visakhapatnam",
+    "decision": "exclude",
+    "reason": "Custom cake/retail bakery evidence lacks sufficiently documented premium production format and procurement route.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N079",
+    "existing_lead_id": "N079",
+    "business": "FoodEx - Vizag group enquiry",
+    "city": "Visakhapatnam",
+    "decision": "include",
+    "reason": "Documented Multi-outlet bakery and custom-cake operation. Operator catalogue describes cakes, brownies, cupcakes, pastries, muffins and cookies; proposed fruit inclusions require a new recipe trial. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N082",
+    "existing_lead_id": "N082",
+    "business": "Cafe Delight",
+    "city": "Eluru",
+    "decision": "exclude",
+    "reason": "Cafe/delivery listings do not sufficiently corroborate a current established specialty dining operation and a focused product application.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N083",
+    "existing_lead_id": "N083",
+    "business": "The 11:11 Cafe",
+    "city": "Eluru",
+    "decision": "exclude",
+    "reason": "Indexed menu/review evidence does not adequately verify current operator, established specialty dining format and relevant purchasing route.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N084",
+    "existing_lead_id": "N084",
+    "business": "V1 - Shakes & Mocktails",
+    "city": "Eluru",
+    "decision": "exclude",
+    "reason": "Shake/mocktail outlet format; no corroborated established specialty dining, full-service bar or event operation.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N087",
+    "existing_lead_id": "N087",
+    "business": "Down Town Turf N Cafe",
+    "city": "Kakinada",
+    "decision": "exclude",
+    "reason": "Turf/leisure naming and delivery menu do not sufficiently establish a qualifying hospitality operation or its ingredient buying route.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N088",
+    "existing_lead_id": "N088",
+    "business": "Level 7 - Paradigm Sarovar Portico",
+    "city": "Kakinada",
+    "decision": "include",
+    "reason": "Documented Business hotel with a seventh-floor lounge bar. Official indexed Level 7 page explicitly advertises cocktails and mocktails. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N089",
+    "existing_lead_id": "N089",
+    "business": "Rasa Cafe & Restaurant",
+    "city": "Kakinada",
+    "decision": "exclude",
+    "reason": "The website contains template event content, placeholder testimonials and an unrelated New York footer; it cannot support premium/event-format claims without independent corroboration.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N090",
+    "existing_lead_id": "N090",
+    "business": "Soda Sip",
+    "city": "Kakinada",
+    "decision": "exclude",
+    "reason": "Soda/refreshment outlet listing; no corroborated established specialty dining, bar or production format.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N091",
+    "existing_lead_id": "N091",
+    "business": "YVR Tea Trends",
+    "city": "Kakinada",
+    "decision": "exclude",
+    "reason": "Tea/refreshment retail format; evidence does not establish the requested specialty dining or premium production benchmark.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N093",
+    "existing_lead_id": "N093",
+    "business": "Swara Cafe",
+    "city": "Ongole",
+    "decision": "exclude",
+    "reason": "Delivery-only listing; qualifying established dine-in or premium production format is not corroborated.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N094",
+    "existing_lead_id": "N094",
+    "business": "Hungry Hangout",
+    "city": "Rajahmundry",
+    "decision": "exclude",
+    "reason": "Indexed delivery-menu/review evidence is insufficient to establish a current specialty dine-in format and focused fruit application.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N095",
+    "existing_lead_id": "N095",
+    "business": "Pink Sparrow Cafe",
+    "city": "Rajahmundry",
+    "decision": "exclude",
+    "reason": "Indexed cafe/menu evidence lacks sufficiently current operator corroboration of the required specialty dining or production format.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N096",
+    "existing_lead_id": "N096",
+    "business": "Woodhouse - Dolphin Hotel",
+    "city": "Visakhapatnam",
+    "decision": "include",
+    "reason": "Documented Hotel lobby bar. Operator describes mixed drinks made at Woodhouse; named recipes and dried-garnish use remain unconfirmed. Buyer demand and purchasing quantities remain unconfirmed.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N099",
+    "existing_lead_id": "N099",
+    "business": "Elohi Cafe",
+    "city": "Eluru",
+    "decision": "exclude",
+    "reason": "Cafe/menu listing alone does not sufficiently demonstrate the qualifying established specialty dining format and relevant purchasing route.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N103",
+    "existing_lead_id": "N103",
+    "business": "OvenTheory",
+    "city": "Visakhapatnam",
+    "decision": "exclude",
+    "reason": "Retail/custom bakery evidence does not sufficiently establish premium production format and a verified ingredient purchasing route.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N104",
+    "existing_lead_id": "N104",
+    "business": "V Hangout Resto Cafe",
+    "city": "Visakhapatnam",
+    "decision": "exclude",
+    "reason": "Older editorial menu and dated contact evidence leave the current operator, relevant menu and qualifying commercial format insufficiently verified.",
+    "review_date": "2026-10-24"
+  }
+]

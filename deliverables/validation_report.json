@@ -1,19 +1,32 @@
 {
   "status": "passed",
+  "review_date": "2026-10-24",
+  "lead_count": 186,
+  "original_baseline_count": 50,
+  "qualified_additions_count": 136,
+  "preserved_original_field_values_checked": 1350,
+  "prior_expansion_decisions_checked": 159,
   "checks": [
-    "50 unique lead IDs",
-    "25 local / 17 Hyderabad / 8 other southern prospects",
-    "33 public emails / 49 public phones",
-    "All leads have source URLs and unconfirmed demand status",
-    "CSV has 50 consistent records",
-    "XLSX archive integrity and nine worksheets",
-    "Seven costing formulas in the expected cells",
-    "Python scripts parse successfully"
+    "Every existing field/value of original L001-L050 exactly matches preserved baseline",
+    "Unique sequential master IDs; deterministic qualified addition IDs; prior expansion IDs retained",
+    "Every addition has qualifying format/product evidence, source URLs, dated review and a public contact route",
+    "All 159 expansion decisions accounted for; included prior IDs match retained additions",
+    "Exact business/city duplicates rejected; shared routes flagged for manual buyer-account review",
+    "CSV and every master XLSX value match the JSON records and column mapping",
+    "FirstCalls uses eligible records and separates practical from formal procurement lanes",
+    "ApproachPlans and ContactLog contain every master ID",
+    "Actual cohort/city/type/contact counts checked; city chart has a static count table",
+    "All source-sheet dates follow their corresponding record dates",
+    "XLSX archive integrity, twelve expected worksheets and seven formulas confined to PilotCosting",
+    "Current Python scripts parse successfully"
   ],
   "limits": [
-    "Contacts were not called or emailed",
-    "Buyer demand and purchasing volumes are unconfirmed",
-    "Workbook visually untested in desktop Excel",
-    "GitHub upload status is reported separately after authentication"
+    "Original 50 preserved, not all requalified under the revised format criteria",
+    "Contacts not called or inbox-tested; indexed-only and mixed evidence remain labelled",
+    "Buyer interest, independent purchasing authority, volumes and conversion are unconfirmed",
+    "Research priority score is not a probability or sales forecast",
+    "Automatic shared-route flags do not replace manual buying-account coordination",
+    "Workbook not visually tested in desktop Excel",
+    "GitHub publication status is reported separately"
   ]
 }

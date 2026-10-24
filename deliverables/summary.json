@@ -1,14 +1,505 @@
 {
-  "lead_count": 50,
-  "local_count": 25,
-  "poranki_belt_count": 6,
-  "hyderabad_count": 17,
-  "south_count": 8,
-  "published_email_count": 33,
-  "published_phone_count": 49,
-  "official_contact_records": 30,
-  "research_date": "2026-10-23",
-  "outreach_sent": 0,
+  "lead_count": 186,
+  "original_baseline_count": 50,
+  "qualified_additions_count": 136,
+  "prior_expansion_audited_count": 159,
+  "prior_expansion_retained_count": 64,
+  "prior_expansion_removed_count": 95,
+  "newly_researched_additions_count": 72,
+  "cohort_counts": {
+    "Original 50 - preserved baseline": 50,
+    "Qualified addition - format and product reviewed": 136
+  },
+  "city_counts": {
+    "Bengaluru": 22,
+    "Chennai": 13,
+    "Coimbatore": 6,
+    "Guntur": 5,
+    "Hyderabad": 66,
+    "Kakinada": 3,
+    "Kanchipuram": 1,
+    "Kochi": 3,
+    "Madurai": 3,
+    "Mangalagiri": 1,
+    "Mysuru": 1,
+    "Puducherry": 7,
+    "Salem": 1,
+    "Tiruchirappalli": 1,
+    "Tirunelveli": 1,
+    "Tirupati": 2,
+    "Vijayawada": 37,
+    "Visakhapatnam": 13
+  },
+  "business_type_counts": {
+    "Bakery / patisserie": 19,
+    "Bar / brewery / restobar": 64,
+    "Cafe / coffee": 33,
+    "Hotel / resort": 61,
+    "Restaurant / other original venue": 9
+  },
+  "contact_access_counts": {
+    "Baseline source classification; not re-reviewed": 50,
+    "Directory page reviewed": 29,
+    "Mixed": 8,
+    "Official page reviewed": 92,
+    "Search index only": 7
+  },
+  "addition_contact_access_counts": {
+    "Directory page reviewed": 29,
+    "Mixed": 8,
+    "Official page reviewed": 92,
+    "Search index only": 7
+  },
+  "contact_classification_counts": {
+    "Directory; recheck": 53,
+    "Official social": 1,
+    "Official website": 132
+  },
+  "lane_counts": {
+    "Local formal hotel / group route": 8,
+    "Local practical introduction": 35,
+    "Remote formal hotel / group route": 53,
+    "Remote qualification before samples": 90
+  },
+  "city_by_cohort": {
+    "Bengaluru": {
+      "original": 2,
+      "qualified_additions": 20
+    },
+    "Chennai": {
+      "original": 3,
+      "qualified_additions": 10
+    },
+    "Coimbatore": {
+      "original": 0,
+      "qualified_additions": 6
+    },
+    "Guntur": {
+      "original": 0,
+      "qualified_additions": 5
+    },
+    "Hyderabad": {
+      "original": 17,
+      "qualified_additions": 49
+    },
+    "Kakinada": {
+      "original": 0,
+      "qualified_additions": 3
+    },
+    "Kanchipuram": {
+      "original": 0,
+      "qualified_additions": 1
+    },
+    "Kochi": {
+      "original": 2,
+      "qualified_additions": 1
+    },
+    "Madurai": {
+      "original": 0,
+      "qualified_additions": 3
+    },
+    "Mangalagiri": {
+      "original": 0,
+      "qualified_additions": 1
+    },
+    "Mysuru": {
+      "original": 0,
+      "qualified_additions": 1
+    },
+    "Puducherry": {
+      "original": 0,
+      "qualified_additions": 7
+    },
+    "Salem": {
+      "original": 0,
+      "qualified_additions": 1
+    },
+    "Tiruchirappalli": {
+      "original": 0,
+      "qualified_additions": 1
+    },
+    "Tirunelveli": {
+      "original": 0,
+      "qualified_additions": 1
+    },
+    "Tirupati": {
+      "original": 0,
+      "qualified_additions": 2
+    },
+    "Vijayawada": {
+      "original": 25,
+      "qualified_additions": 12
+    },
+    "Visakhapatnam": {
+      "original": 1,
+      "qualified_additions": 12
+    }
+  },
+  "published_email_count": 112,
+  "published_phone_count": 185,
+  "first_calls_count": 30,
+  "sources_count": 715,
+  "review_date": "2026-10-24",
+  "original_review_dates": [
+    "2026-10-23"
+  ],
   "confirmed_buyers": 0,
-  "sources": 134
+  "outreach_sent": 0,
+  "priority_formula": "Round(100 * (product*5 + format*4 + contact*3 + geography*2) / 51)",
+  "priority_limit": "Research sorting aid for qualified additions, not conversion probability, revenue, expected volume or confirmed demand. Original baseline has no overall score and its unreviewed format dimension is 0.",
+  "baseline_sha256": "c4b023691c8fd408b298ea2bbab0b3195dc5c9b96749cecc0fa543c88a7e6506",
+  "original_preservation": "Every existing field and value on L001-L050 preserved; derived qualification fields added.",
+  "deduplication_limit": "Unique business/city identities checked; shared contact/group routes flagged for manual coordination. Venue rows are not independent buying-account counts.",
+  "csv_columns": [
+    {
+      "key": "lead_id",
+      "label": "Lead ID"
+    },
+    {
+      "key": "business",
+      "label": "Business / venue"
+    },
+    {
+      "key": "cohort",
+      "label": "Cohort / review status"
+    },
+    {
+      "key": "qualification_priority",
+      "label": "Qualification priority"
+    },
+    {
+      "key": "qualification_procurement_lane",
+      "label": "Contact lane"
+    },
+    {
+      "key": "city",
+      "label": "City"
+    },
+    {
+      "key": "area",
+      "label": "Locality"
+    },
+    {
+      "key": "recommended_fruits",
+      "label": "Suggested fruits - inferred"
+    },
+    {
+      "key": "phone",
+      "label": "Public business phone"
+    },
+    {
+      "key": "email",
+      "label": "Public business email"
+    },
+    {
+      "key": "qualification_next_action",
+      "label": "Personalized next action"
+    },
+    {
+      "key": "buyer_role",
+      "label": "Ask for"
+    },
+    {
+      "key": "qualification_question_to_ask",
+      "label": "Qualification question"
+    },
+    {
+      "key": "commercial_format",
+      "label": "Reviewed commercial format - additions"
+    },
+    {
+      "key": "product_evidence",
+      "label": "Reviewed product evidence - additions"
+    },
+    {
+      "key": "qualification_contact_access",
+      "label": "Contact source access"
+    },
+    {
+      "key": "qualification_procurement_friction",
+      "label": "Procurement friction - unconfirmed"
+    },
+    {
+      "key": "qualification_score",
+      "label": "Research priority score / 100"
+    },
+    {
+      "key": "qualification_product_points",
+      "label": "Product evidence points / 4"
+    },
+    {
+      "key": "qualification_format_points",
+      "label": "Format evidence points / 3"
+    },
+    {
+      "key": "qualification_contact_points",
+      "label": "Contact evidence points / 3"
+    },
+    {
+      "key": "qualification_geography_points",
+      "label": "Geography points / 5"
+    },
+    {
+      "key": "qualification_duplicate_review",
+      "label": "Shared route / duplicate review"
+    },
+    {
+      "key": "prior_expansion_id",
+      "label": "Prior expansion ID"
+    },
+    {
+      "key": "qualification_review_date",
+      "label": "Addition review date"
+    },
+    {
+      "key": "verified_on",
+      "label": "Original source research date"
+    },
+    {
+      "key": "contact_notes",
+      "label": "Contact caveats"
+    },
+    {
+      "key": "purchasing_group",
+      "label": "Buying group / coordination"
+    },
+    {
+      "key": "local_purchase_authority",
+      "label": "Local purchase authority"
+    },
+    {
+      "key": "qualification_gap",
+      "label": "Unresolved qualification gap"
+    },
+    {
+      "key": "format_evidence",
+      "label": "Commercial format evidence"
+    },
+    {
+      "key": "format_source_url",
+      "label": "Format source URL"
+    },
+    {
+      "key": "product_source_url",
+      "label": "Product source URL"
+    },
+    {
+      "key": "contact_source_urls",
+      "label": "Contact source URLs"
+    },
+    {
+      "key": "address",
+      "label": "Published address"
+    },
+    {
+      "key": "website",
+      "label": "Website"
+    },
+    {
+      "key": "segment",
+      "label": "Business type - source"
+    },
+    {
+      "key": "use_case",
+      "label": "Proposed use - inferred"
+    },
+    {
+      "key": "evidence_strength",
+      "label": "Original product evidence level"
+    },
+    {
+      "key": "evidence_note",
+      "label": "Original menu / business evidence"
+    },
+    {
+      "key": "evidence_source_url",
+      "label": "Original menu / fit source URL"
+    },
+    {
+      "key": "contact_confidence",
+      "label": "Original contact classification"
+    },
+    {
+      "key": "priority",
+      "label": "Original priority - preserved"
+    },
+    {
+      "key": "geographic_tier",
+      "label": "Original geographic tier"
+    },
+    {
+      "key": "state",
+      "label": "Original state"
+    },
+    {
+      "key": "demand_status",
+      "label": "Original demand status"
+    },
+    {
+      "key": "outreach_status",
+      "label": "Original outreach status"
+    },
+    {
+      "key": "contact_source_url",
+      "label": "Contact source url"
+    },
+    {
+      "key": "recommended_first_contact",
+      "label": "Recommended first contact"
+    },
+    {
+      "key": "qualification_status",
+      "label": "Qualification status"
+    },
+    {
+      "key": "qualification_source_file",
+      "label": "Qualification source file"
+    },
+    {
+      "key": "qualification_business_type",
+      "label": "Qualification business type"
+    },
+    {
+      "key": "qualification_product_basis",
+      "label": "Qualification product basis"
+    },
+    {
+      "key": "qualification_format_basis",
+      "label": "Qualification format basis"
+    },
+    {
+      "key": "qualification_geography_band",
+      "label": "Qualification geography band"
+    },
+    {
+      "key": "qualification_product_caveat",
+      "label": "Qualification product caveat"
+    },
+    {
+      "key": "qualification_contact_status",
+      "label": "Qualification contact status"
+    },
+    {
+      "key": "qualification_local_authority",
+      "label": "Qualification local authority"
+    },
+    {
+      "key": "qualification_trial_offer",
+      "label": "Qualification trial offer"
+    },
+    {
+      "key": "qualification_state",
+      "label": "Qualification state"
+    },
+    {
+      "key": "qualification_group_note",
+      "label": "Qualification group note"
+    },
+    {
+      "key": "qualification_outreach_status",
+      "label": "Qualification outreach status"
+    },
+    {
+      "key": "qualification_demand_status",
+      "label": "Qualification demand status"
+    },
+    {
+      "key": "qualification_first_call_eligible",
+      "label": "Qualification first call eligible"
+    },
+    {
+      "key": "fit_signal",
+      "label": "Fit signal"
+    },
+    {
+      "key": "source_access",
+      "label": "Source access"
+    },
+    {
+      "key": "qualification_question",
+      "label": "Qualification question - source field"
+    },
+    {
+      "key": "priority_band",
+      "label": "Priority band"
+    },
+    {
+      "key": "priority_reason",
+      "label": "Priority reason"
+    },
+    {
+      "key": "sample_offer",
+      "label": "Sample offer"
+    },
+    {
+      "key": "contact_route",
+      "label": "Contact route"
+    },
+    {
+      "key": "email_subject",
+      "label": "Email subject"
+    },
+    {
+      "key": "opening_message",
+      "label": "Opening message"
+    },
+    {
+      "key": "first_list_overlap",
+      "label": "First list overlap"
+    },
+    {
+      "key": "group_coordination",
+      "label": "Group coordination"
+    },
+    {
+      "key": "existing_lead_id",
+      "label": "Existing lead id"
+    },
+    {
+      "key": "decision",
+      "label": "Decision"
+    },
+    {
+      "key": "contact_access",
+      "label": "Contact access"
+    },
+    {
+      "key": "opportunity_type",
+      "label": "Opportunity type"
+    },
+    {
+      "key": "sales_friction",
+      "label": "Sales friction"
+    },
+    {
+      "key": "review_date",
+      "label": "Review date"
+    },
+    {
+      "key": "qualified_format_only",
+      "label": "Qualified format only"
+    },
+    {
+      "key": "improvedcontact_notes",
+      "label": "Improvedcontact notes"
+    },
+    {
+      "key": "operating_status_source_urls",
+      "label": "Operating status source urls"
+    }
+  ],
+  "expected_worksheets": [
+    "StartHere",
+    "MasterLeads",
+    "FirstCalls",
+    "Analytics",
+    "ApproachPlans",
+    "Changes",
+    "FruitPlan",
+    "BusinessFit",
+    "EmailDrafts",
+    "ContactLog",
+    "PilotCosting",
+    "Sources"
+  ]
 }

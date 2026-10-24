@@ -1,0 +1,387 @@
+[
+  {
+    "lead_id": "N111",
+    "business": "Makau Kitchen and Bar",
+    "decision": "include",
+    "reason": "Retained: Seated cocktail restaurant. Mad Mandarin and Liquid Jamun appear in the ordering menu.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N140",
+    "business": "Pacific Hospitality - Aidu / Noho / Farzi Hyderabad",
+    "decision": "include",
+    "reason": "Retained: Hospitality group with destination cocktail restaurants. Noho Popcorn shooter: lemon.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N118",
+    "business": "Zythum Brewing Co.",
+    "decision": "include",
+    "reason": "Retained: Craft brewery with multiple bar and dining areas. Sun God Smash includes citrus; Red Papyrus includes strawberry.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N128",
+    "business": "Air Live - Gachibowli",
+    "decision": "exclude",
+    "reason": "Current evidence did not resolve conflicting outlet/floor contacts or establish a sufficiently specific fruit-based drink route for this stricter list.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N152",
+    "business": "Tabula Rasa - Nanakramguda",
+    "decision": "exclude",
+    "reason": "Established bar, but reviewed sources did not provide a named fruit-relevant recipe sufficient for the revised product-fit gate.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N108",
+    "business": "Heart Cup Coffee - Gachibowli",
+    "decision": "include",
+    "reason": "Retained: Seated cafe and full bar with event infrastructure. Official menu: HCC Sunset uses orange/pineapple; HCC Tangy Twist uses orange/lime.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N110",
+    "business": "Le Vantage Cafe Bar",
+    "decision": "include",
+    "reason": "Retained: Seated cafe and cocktail bar. Daiquiri; Tequila Sunrise.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N141",
+    "business": "Taste Budders - Fat Pigeon / Peanuts Bar",
+    "decision": "include",
+    "reason": "Retained: Hospitality group operating seated cocktail bars. Peanuts Mango Toffee: lime.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N113",
+    "business": "Over The Moon Brew Company",
+    "decision": "include",
+    "reason": "Retained: Microbrewery, restaurant and cocktail bar. Trouble Maker: peach and cherry.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N112",
+    "business": "OneGolf / Swing Lounge",
+    "decision": "include",
+    "reason": "Retained: Golf leisure complex with brewery and lounge. Third-party menu catalog lists Whisky Sour with lemon and Old Fashioned with orange peel.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N116",
+    "business": "Ru Craft Bar / KinRu",
+    "decision": "include",
+    "reason": "Retained: Fine-dining restaurant and craft bar. Golden Hour: citrus.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N117",
+    "business": "The Beer Cartel",
+    "decision": "include",
+    "reason": "Retained: Taproom and seated restaurant. Third-party menu catalog: Kokum Margarita; Sol Kadhi Highball.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N146",
+    "business": "By The Bay",
+    "decision": "exclude",
+    "reason": "Seated venue is identifiable, but reviewed evidence remains generic on fruit-specific beverage applications.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N133",
+    "business": "FEU / Kembara Hyderabad",
+    "decision": "include",
+    "reason": "Retained: Asian restaurant and cocktail bar / patisserie group. Waters of Life: watermelon.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N105",
+    "business": "Chit Chat Chai",
+    "decision": "include",
+    "reason": "Retained: Specialty tea brand with dine-in tea cafes. Apple Rosemary Spiked Tea is non-alcoholic.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N136",
+    "business": "Hodd's Cocktail Bar - Hyatt Hyderabad Gachibowli",
+    "decision": "include",
+    "reason": "Retained: Hotel alfresco cocktail bar. Agave Love: citrus.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N129",
+    "business": "Babylon Bar and Kitchen - Jubilee Hills",
+    "decision": "include",
+    "reason": "Retained: Full-service restaurant and cocktail bar. Hibiscus Lemonade.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N137",
+    "business": "Monastery",
+    "decision": "include",
+    "reason": "Retained: Seated Asian restaurant and cocktail bar. Clarified Pina Colada; Five Spice Negroni.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N142",
+    "business": "Terrai / LOQA Cocktail Room",
+    "decision": "include",
+    "reason": "Retained: Dedicated cocktail room attached to restaurant. Situationship uses pineapple.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N106",
+    "business": "Daily Rituals",
+    "decision": "include",
+    "reason": "Retained: Full-service restaurant and cocktail bar. Chill O'Clock uses orange marmalade; Island Ritual uses lime/pineapple.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N139",
+    "business": "Oka Bar and Bistro",
+    "decision": "include",
+    "reason": "Retained: Seated bistro and cocktail bar. Cold Brew G&T.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N135",
+    "business": "Forefathers",
+    "decision": "include",
+    "reason": "Retained: Full-service themed restaurant and cocktail bar. Genghis Goblet uses green apple.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N109",
+    "business": "Ko Ko Kai - Asian Kitchen and Cocktails",
+    "decision": "include",
+    "reason": "Retained: Seated Pan-Asian restaurant and cocktail bar. Siam Splash; Tokyo Twist.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N130",
+    "business": "Chamkeela - The Cocktail House",
+    "decision": "include",
+    "reason": "Retained: Dedicated cocktail house with seated dining. Mango Lemonade; Cool Down Spritzer.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N114",
+    "business": "Oxymorons",
+    "decision": "include",
+    "reason": "Retained: Dedicated cocktail laboratory and bar. Official menu: Random Order includes banana/lime; Seriously Playful includes pineapple.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N131",
+    "business": "Dokii Dokii",
+    "decision": "exclude",
+    "reason": "Named mocktails are documented, but the reviewed descriptions do not establish a fruit ingredient or a concrete dehydrated-fruit application.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N143",
+    "business": "Tevar / Cock and Bull Hyderabad",
+    "decision": "include",
+    "reason": "Retained: Full-service restaurant and cocktail-bar group. Moksha: lemon; Junoon: mixed fruit.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N132",
+    "business": "Dune Bar and Kitchen",
+    "decision": "include",
+    "reason": "Retained: Rooftop restaurant and cocktail bar. Foo King: muskmelon.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N124",
+    "business": "Manam Chocolate Karkhana",
+    "decision": "include",
+    "reason": "Retained: Craft chocolate production venue with cafe and retail. Official fruit collection includes candied orange wheels; festive mix includes cranberry and orange components.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N149",
+    "business": "Feranoz Patisserie and Cafe",
+    "decision": "include",
+    "reason": "Retained: Multi-outlet patisserie with dine-in flagship. Brand's Hitech ordering menu lists Blueberry French Vanilla Cake; dried fruit is only a recipe-development hypothesis.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N151",
+    "business": "SAGE Farm Cafe",
+    "decision": "exclude",
+    "reason": "Farm-cafe format is identifiable; a current named fruit recipe and supplier trial route at the required benchmark were not established.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N145",
+    "business": "Aaromale Cafe and Creative Community",
+    "decision": "exclude",
+    "reason": "Creative-community cafe format is identifiable; current fruit-specific beverage evidence was insufficient for the stricter list.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N158",
+    "business": "Tiger Lily Coffee and Bistro - Financial District",
+    "decision": "exclude",
+    "reason": "Cafe/bistro listing alone did not establish both the stronger commercial format and a specific fruit recipe.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N126",
+    "business": "Van Lavino Cafe and Patisserie",
+    "decision": "include",
+    "reason": "Retained: Multi-outlet patisserie and dine-in cafe. Current ordering menu lists Lemon Iced Tea and Mango Mojito.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N122",
+    "business": "Cravery Cafe",
+    "decision": "include",
+    "reason": "Retained: Two-site dine-in cafe and bakery. Ordering menu lists Lemon Tea and Chilli Mango Shake.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N125",
+    "business": "The Ofen",
+    "decision": "exclude",
+    "reason": "Established bakery is documented, but specific fruit recipe evidence found was dated; no current trial fit was verified.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N123",
+    "business": "Finjaan Tea Lounge",
+    "decision": "include",
+    "reason": "Retained: Specialty tea lounge and packaged-tea company. Retail ingredient list for Finjaan green tea blend includes orange peel.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N154",
+    "business": "The Bougainvillea and Zuci",
+    "decision": "include",
+    "reason": "Retained: Seated garden/rooftop restaurant with dessert operation. Blueberry Cheesecake appears in the reviewed menu summary; dried topping is unproven.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N120",
+    "business": "Cafe Nera",
+    "decision": "exclude",
+    "reason": "Public cafe contact exists; reviewed evidence did not establish a larger dine-in/production format plus a specific suitable recipe.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N156",
+    "business": "The Funnel Hill Creamery - Hyderabad",
+    "decision": "exclude",
+    "reason": "Dessert-bar recognition does not establish a current fruit recipe or production procurement fit; omitted pending stronger evidence.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N150",
+    "business": "Katha Specialty Coffee and Bakehouse",
+    "decision": "include",
+    "reason": "Retained: Multi-outlet specialty coffee and bakehouse group. Ordering menu lists OJ Cold Brew and Spiced Jamun Cold Brew.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N148",
+    "business": "Cozmo Cafe Bistro and Lounge",
+    "decision": "exclude",
+    "reason": "Public group contact exists, but reviewed menu/format evidence was insufficient for the stronger benchmark.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N121",
+    "business": "CoCh House - Coffee and Chai Tales",
+    "decision": "exclude",
+    "reason": "Public coffee/tea brand contact exists, but a named fruit-relevant recipe and concrete qualifying format were not established.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N155",
+    "business": "The Coffee Cup - Sainikpuri",
+    "decision": "exclude",
+    "reason": "Established cafe is identifiable, but current evidence did not support a sufficiently specific dehydrated-fruit application.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N159",
+    "business": "Toops Coffee",
+    "decision": "exclude",
+    "reason": "Specialty-coffee positioning alone was insufficient without a verified fruit drink and qualifying commercial-format evidence.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N107",
+    "business": "Good Vibes Only Cafe",
+    "decision": "include",
+    "reason": "Retained: Dine-in cafe with a developed coffee and beverage menu. Orange Cold Brew and Signature Fruit Lemonade appear on the ordering menu.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N157",
+    "business": "This Is It Cafe",
+    "decision": "exclude",
+    "reason": "Reviewed listings established a cafe, but insufficient specific product-fit and commercial-format evidence for the revised gate.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N153",
+    "business": "Tarz Kitchen and Coffee Bar",
+    "decision": "exclude",
+    "reason": "Reviewed listings did not establish a sufficiently specific fruit programme and qualifying format for this stricter shortlist.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N134",
+    "business": "Flaming Trio - Hyderabad / Drinq",
+    "decision": "include",
+    "reason": "Retained: Professional event-bar operator with training and supply services. Official training programme includes dehydration; event garnish procurement is an inference, not an existing purchase.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N119",
+    "business": "Bakelore",
+    "decision": "include",
+    "reason": "Retained: Multi-site bakery with experience centre and production menu. Official catalogue includes Mango Bento and mango roulade; dried mango is a separate development trial.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N147",
+    "business": "Cellulouse Bakehouse",
+    "decision": "exclude",
+    "reason": "Bakehouse branding and menu breadth alone did not demonstrate the premium production format plus a suitable fruit recipe.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N138",
+    "business": "Naatu Kitchen and Bar",
+    "decision": "exclude",
+    "reason": "Bar/restaurant listing was too generic on actual fruit-based drinks to pass the revised product-fit gate.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N127",
+    "business": "75 Degree West",
+    "decision": "exclude",
+    "reason": "Public venue route exists, but current named fruit recipe and format evidence were insufficient for the stronger shortlist.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N115",
+    "business": "Prism Club and Kitchen - Hyderabad",
+    "decision": "include",
+    "reason": "Retained: Dedicated nightclub with kitchen and cocktail service. Jager Iced Tea appears in venue cocktail coverage; garnish recipe needs confirmation.",
+    "review_date": "2026-10-24"
+  },
+  {
+    "lead_id": "N144",
+    "business": "Whisky Samba - Hyderabad",
+    "decision": "include",
+    "reason": "Retained: Dedicated whisky and cocktail bar with seated dining. Pineapple Rasam Highball.",
+    "review_date": "2026-10-24"
+  }
+]
