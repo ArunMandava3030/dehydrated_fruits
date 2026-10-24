@@ -1,0 +1,53 @@
+{
+  "additional_prospects": 159,
+  "original_prospects": 50,
+  "combined_venue_rows": 209,
+  "public_emails": 52,
+  "public_phones": 159,
+  "cities": {
+    "Vijayawada": 36,
+    "Guntur": 17,
+    "Mangalagiri": 2,
+    "Tenali": 6,
+    "Bhimavaram": 6,
+    "Machilipatnam": 3,
+    "Tadepalligudem": 2,
+    "Tanuku": 4,
+    "Visakhapatnam": 13,
+    "Eluru": 4,
+    "Gudivada": 2,
+    "Kakinada": 5,
+    "Ongole": 1,
+    "Rajahmundry": 2,
+    "Nuzvid": 1,
+    "Hyderabad": 55
+  },
+  "geographic_tiers": {
+    "1 Poranki belt": 6,
+    "2 Vijayawada area": 30,
+    "3 Guntur and nearby AP": 25,
+    "4 Andhra expansion": 43,
+    "5 Hyderabad": 55
+  },
+  "priority_bands": {
+    "B - Nearby product trial": 29,
+    "D - Verify before sample": 89,
+    "A - Nearby drink fit": 1,
+    "C - Expand selectively": 40
+  },
+  "fit_signals": {
+    "Cocktail or mocktail menu": 86,
+    "Cafe beverages": 39,
+    "Bakery or dessert menu": 31,
+    "Segment only": 3
+  },
+  "source_access": {
+    "Mixed": 32,
+    "Page reviewed": 42,
+    "Search index only": 85
+  },
+  "research_date": "2026-10-24",
+  "confirmed_buyers": 0,
+  "messages_sent": 0,
+  "source_rows": 356
+}
