@@ -20,6 +20,7 @@ There are **112 published business emails and 185 published phone contacts**. Of
 ## Start here
 
 - [Excel master workbook](deliverables/dehydrated_fruit_b2b_leads.xlsx): contacts, local first calls, approach plans, analytics, review decisions, source links, outreach drafts, contact log and batch costing.
+- [Original 50-lead CSV](deliverables/original_50_dehydrated_fruit_leads.csv): the original file, preserved exactly for separate reference. These 50 records are also included in the current master workbook.
 - [Approach and qualification guide](docs/qualification_strategy.md): how to reach the buyer, agree a useful sample and progress to a paid trial.
 - [Email drafts](docs/outreach_templates.md) and [launch plan](docs/launch_plan.md).
 - [CSV](deliverables/dehydrated_fruit_leads.csv), [structured records](deliverables/leads.json), [coverage summary](deliverables/summary.json) and [validation report](deliverables/validation_report.json).
